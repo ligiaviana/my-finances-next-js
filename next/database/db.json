@@ -1,0 +1,111 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Comida"
+    },
+    {
+      "id": 2,
+      "name": "Lazer"
+    },
+    {
+      "id": 3,
+      "name": "Supermercado"
+    },
+    {
+      "id": 4,
+      "name": "Transporte"
+    },
+    {
+      "id": 5,
+      "name": "Jogos"
+    },
+    {
+      "id": 6,
+      "name": "Farmácia"
+    },
+    {
+      "id": 7,
+      "name": "Roupas"
+    }
+  ],
+  "expenses": [
+    {
+      "id": 4,
+      "date": 1651806000000,
+      "description": "Ingressos no cinema",
+      "category": "Lazer",
+      "value": 94.29
+    },
+    {
+      "id": 5,
+      "date": 1657076400000,
+      "description": "Passagem de ônibus público",
+      "category": "Transporte",
+      "value": 10
+    },
+    {
+      "description": "Celular",
+      "value": 1000,
+      "category": "Lazer",
+      "date": 1657888328373,
+      "id": 6
+    },
+    {
+      "description": "Celular",
+      "value": 1000,
+      "category": "Lazer",
+      "date": 1657888330505,
+      "id": 7
+    },
+    {
+      "description": "Produtos de Limpeza",
+      "value": 90,
+      "category": "Supermercado",
+      "date": 1657888366884,
+      "id": 8
+    },
+    {
+      "description": "Almoço",
+      "value": 21,
+      "category": "Comida",
+      "date": 1657889625857,
+      "id": 9
+    },
+    {
+      "description": "Remédio",
+      "value": 100,
+      "category": "Farmácia",
+      "date": 1657891170674,
+      "id": 10
+    },
+    {
+      "description": "Calça Jeans",
+      "value": 30,
+      "category": "Roupas",
+      "date": 1657891513944,
+      "id": 11
+    },
+    {
+      "description": "teste",
+      "value": 1,
+      "category": "Lazer",
+      "date": 1657891690230,
+      "id": 12
+    },
+    {
+      "id": 13,
+      "description": "GTA 7",
+      "value": 400,
+      "category": "Jogos",
+      "date": 1657895756480
+    },
+    {
+      "description": "Viagem",
+      "value": 1000,
+      "category": "Lazer",
+      "date": 1657899011878,
+      "id": 14
+    }
+  ]
+}
